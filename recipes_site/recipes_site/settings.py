@@ -144,7 +144,7 @@ LOGGING = {
         'file': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': '/home/admin1/Desktop/django_itog/recipes_site/logs/django.log',
+            'filename': os.path.join(BASE_DIR, 'logs', 'django.log'),
         },
     },
     'loggers': {
