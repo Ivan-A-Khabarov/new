@@ -90,18 +90,18 @@
     cursor: pointer;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
-    color: #ff445c;
+    color: #7a41ff;
     border: 1px solid;
     border-radius: 7px;
     padding: 5px 10px;
-    border-color: #ff445c;
+    border-color: #7a41ff;
     background: transparent;
     transition: all 0.5s
 }
 
 .recipes_container .recipe_box .recipe_box__text a:hover {
     color: white;
-    background-color: #ff445c;
+    background-color: #7a41ff;
 }
 
 @media (max-width: 480px) {

@@ -22,7 +22,7 @@ form {
   justify-content: center;
   padding: 12px 20px;
   border-radius: 8px;
-  background: #ff445c;
+  background: #7a41ff;
   box-shadow:0 0 40px -10px #000
 }
 
@@ -91,6 +91,6 @@ input[type="time"] {
 }
 
 .btn:hover {
-  color: #ff445c;
+  color: #7a41ff;
   background-color: white;
 }
