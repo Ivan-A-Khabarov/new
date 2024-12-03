@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
-    background: #a676d6;
+    background: #fcfcfc;
 }
 
 .content {
@@ -103,7 +103,7 @@ a {
     font-weight: 300;
     font-size: 18px;
     line-height: 30px;
-    color: #7D7987;
+    color: #61666e;
     padding-left: 20px;
     padding-right: 20px;
     text-align: justify
